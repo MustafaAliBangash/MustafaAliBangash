@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MustafaAliBangash
 - 👀 I’m interested in ...Programming 
-- 🌱 I’m currently learning ...JS,React
+- 🌱 I’m currently learning ...Web 3.0 and Metaverse 
 - 💞️ I’m looking to collaborate on ...AWS
 - 📫 How to reach me ...Anytime on email
 
